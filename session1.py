@@ -1,10 +1,10 @@
-name = "yekta amirkhalili"
+name = "yekta khalili"
 print(name.title()) #upper case each word
 print(name.upper()) #all caps 
 print(name.lower()) #all lower case
 
-first_name = "makan"
-last_name = "amirkhalili"
+first_name = "yekta"
+last_name = "khalili"
 full_name = first_name + " " + last_name
 
 print(full_name.title())
